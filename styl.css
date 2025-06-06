@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #810100;
+    margin: 0px;
+}
+#prawe{
+    text-align: right;
+    width: 30%;
+    margin-top:25px;
+}
+#lewe{
+    width: 70%;
+}
+a{
+    font-size: 20px;
+    color: #1b1717;
+    text-decoration: none;
+    margin: 10px;
+    border: 1px #1b1717 double;
+    border-radius: 20px;
+    padding: 5px;
+}
+a:hover{
+    color: #edebdd;
+    padding: 10px;
+}
